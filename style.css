@@ -37,6 +37,17 @@ hr{
     color: var(--color-2);
 }
 
+.user{
+    width: 100%;
+    border-radius: 50%;
+    border: 2px solid grey;
+}
+
+#product .image{
+height: 300px;
+width: 300px;
+}
+
 .accordion-button:not(.collapsed){
     color: black;
     font-weight: bold;
@@ -74,3 +85,4 @@ footer{
 footer a{
     margin: 0 20px 0 0;
 }
+
